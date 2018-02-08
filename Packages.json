@@ -1,0 +1,10 @@
+[{
+        "name":"Example Package",
+        "version":1.0,
+        "description":"Remove this package whenever you create a repo",
+        "category":"example",
+        "developer":"Sem Voigtlander",
+        "platform":["arm64","armv7","armv7s"],
+        "bundleid":"ml.jailed.examplepackage",
+        "dependencies":[]
+}]
