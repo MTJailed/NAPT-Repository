@@ -11,12 +11,12 @@
 		"usr/bin/example.dylib",
 		"etc/example/default.conf"
 	],
-	"depends": {
-		"example-depend": ">= 1.0"
-	},
-	"devdepends": {
-		"example-dev": ">= 0.1"
-	},
+	"depends": [
+		{"example-depend":1.0}
+	],
+	"devdepends": [
+		{"example-dev": ">= 0.1"}
+	],
 	"category": [
 		"system",
 		"data"
