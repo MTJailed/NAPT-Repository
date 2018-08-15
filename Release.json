@@ -1,7 +1,14 @@
-[{
-    "Label": "Example repository",
-    "Suite": "stable",
-    "Version": 1.0,
-    "Architectures": ["arm64", "armv7","armv7s"],
-    "Description": "An example repository"
-}]
+{
+	"name": "NAPT Repo Example",
+	"description": "Example repository for the New Advanced Package Tool",
+	"maintainer": "Sem Voigtländer",
+	"packagecount": 1000,
+	"private": false,
+	"mode": "release",
+	"git":{
+		"enabled": false,
+		"url": "https://github.com/user/example.git"
+	},
+	"pubkey": "ABCDEFGHIJ12354",
+	"signature": "ABDUAHDAJHDKJAHDKJ=="
+}
