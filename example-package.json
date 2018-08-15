@@ -1,11 +1,8 @@
-/* Anticipation on the Bower package layout */
 {
 	"name": "NAPT Example Package",
 	"description": "Example package is a package to demonstrate the power of NAPT.",
 	"icon": [
 		"napt-data",
-		/* Or custom icon */
-		//"https://placehold.it/100x100
 	],
 	"screenshots": [
 		"https://placehold.it/250x100"
